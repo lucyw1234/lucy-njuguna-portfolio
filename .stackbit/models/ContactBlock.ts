@@ -35,7 +35,7 @@ export const ContactBlockModel: Model = {
             type: 'string',
             name: 'email',
             label: 'Email address',
-            default: 'john@doe.com'
+            default: 'wangoilucy30@.com'
         },
         {
             type: 'string',
